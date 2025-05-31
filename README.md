@@ -14,8 +14,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/siyam-eng/recipe-page)
-- Live Site URL: [Add live site URL here](https://siyam-eng.github.io/recipe-page/)
+- Solution URL: [Add solution URL here](https://github.com/siyam-eng/product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://siyam-eng.github.io/product-preview-card-component)
 
 ## My process
 
@@ -31,5 +31,5 @@ Learned to use different media files for different screen sizes.
 ## Author
 
 - Website - [Siyam Ahmed](https://siyamahmed.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Siyam1888)
-- Twitter - [@yourusername](https://www.twitter.com/siyam_88)
+- Frontend Mentor - [@Siyam1888](https://www.frontendmentor.io/profile/Siyam1888)
+- Twitter - [@siyam_88](https://www.twitter.com/siyam_88)
